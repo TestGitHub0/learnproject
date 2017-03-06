@@ -1,0 +1,11 @@
+Send Security Time
+	|
+Ignition
+	|
+Python to record start time
+	|
+python to connect devices
+	|
+python to record log
+	|
+python to analysis log
